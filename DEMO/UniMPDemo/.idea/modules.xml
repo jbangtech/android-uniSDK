@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnimpDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/UnimpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.iml" filepath="$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.iml" />
+    </modules>
+  </component>
+</project>

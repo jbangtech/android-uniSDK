@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/xmp-3.0.3.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/daemon/4.8.1/caches/transforms-2/files-2.1/3e4e51804b8e401239a784991163b84f/jetified-xmp-3.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/daemon/4.8.1/caches/transforms-2/files-2.1/3e4e51804b8e401239a784991163b84f/jetified-xmp-3.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/daemon/4.8.1/caches/transforms-2/files-2.1/3e4e51804b8e401239a784991163b84f/jetified-xmp-3.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

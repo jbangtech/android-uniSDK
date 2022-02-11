@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/payment-stripe-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/daemon/4.8.1/caches/transforms-2/files-2.1/48db9c11258347a3fc515f43514a93a6/jetified-payment-stripe-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/daemon/4.8.1/caches/transforms-2/files-2.1/48db9c11258347a3fc515f43514a93a6/jetified-payment-stripe-release/res" />
+      <root url="file://$USER_HOME$/.gradle/daemon/4.8.1/caches/transforms-2/files-2.1/48db9c11258347a3fc515f43514a93a6/jetified-payment-stripe-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
